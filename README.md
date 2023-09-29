@@ -7,6 +7,7 @@ standard deviation in subject scores. The difference in reading scores is 8.94 f
 math scores is more significant at 9.22 for charter schools and 12.99 for district schools.
 
 Possible reasons for these results:
+
 Charter schools are less encumbered by labour agreements and regulation and can adapt and innovate more readily. Charter schools have greater control over 
 which students can be admitted into their program, therefore can screen out students who may disrupt class and lower test scores. Also, since charter schools 
 require admission selection and enrollment fees, it is reasonable to assume that there is greater parent engagement. Parents must be proactive in finding and 
