@@ -5,6 +5,7 @@ more substantial at nearly 6 and half percent (6.42% to be exact). The charter s
 To be precise, the average cost for District schools is 642.63$, while the average cost for Charter schools is 596.58$. Charter schools also have a lower 
 standard deviation in subject scores. The difference in reading scores is 8.94 for charter schools and 10.65 for district schools. While the difference in 
 math scores is more significant at 9.22 for charter schools and 12.99 for district schools.
+
 Possible reasons for these results:
 Charter schools are less encumbered by labour agreements and regulation and can adapt and innovate more readily. Charter schools have greater control over 
 which students can be admitted into their program, therefore can screen out students who may disrupt class and lower test scores. Also, since charter schools 
